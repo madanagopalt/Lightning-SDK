@@ -97,7 +97,7 @@ function copyLightning() {
             "name": "tmp",
             "version": "0.0.1",
             "dependencies": {
-                "wpe-lightning-spark": "https://github.com/pxscene/Lightning-Spark.git",
+                "wpe-lightning-spark": "https://github.com/madanagopalt/Lightning-Spark.git",
                 "rollup-plugin-node-resolve": "^5.0.0"
             }
         })))

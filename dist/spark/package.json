@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "esm": "^3.2.11",
-    "wpe-lightning-spark": "https://github.com/pxscene/Lightning-Spark.git",
+    "wpe-lightning-spark": "https://github.com/madanagopalt/Lightning-Spark.git",
     "node-fetch": "^1.7.3"
   },
   "devDependencies": {
